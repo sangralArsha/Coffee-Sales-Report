@@ -69,7 +69,7 @@ This structured dataset enabled analysis of business performance by time, produc
   These enhancements were essential for analyzing monthly performance, order trends, and sales volume with more precision.
 ## 🧠 Sales Analysis Logic
   To summarize and evaluate sales performance effectively, a set of Key Performance Indicators (KPIs) were implemented in line with stakeholder requirements.        These KPIs were     calculated using DAX measures and calculated columns in Power BI.
-  ![Dashboard KPI](https://i.imgur.com/example123.png)
+  ![Dashboard KPI]((https://github.com/sangralArsha/Coffee-Sales-Report/blob/main/Coffee%20Sales%20KPI.png))
 
 ## The following metrics were developed:
   1. Total Sales – total revenue for the selected month
