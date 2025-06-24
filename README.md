@@ -130,14 +130,13 @@ The Power BI dashboard consists of a single interactive page that provides a com
    Weekdays contributed the majority of sales with $117K (74.41%), while weekends accounted for only $40K (25.59%).
   2. The top-performing store location was Hell's Kitchen with $52.60K in sales, followed closely by Astoria and Lower Manhattan — all showing over +30% growth       vs last month.
   
-## In terms of products:
-  
+  In terms of products:
   1. Coffee was the highest selling category at $60.36K, followed by Tea ($44.5K) and Bakery items ($18.5K).
   2. Barista Espresso and Brewed Chai Tea were the best-selling product types.
   3. Sales peaked during the morning hours (8–10 AM), especially around 9 AM which alone contributed $20K in sales for the month.
 
 ## 🧩 Challenges & Lessons Learned
-This project offered valuable learning experiences, particularly in data visualization and DAX logic. Some key lessons and challenges included:
+  This project offered valuable learning experiences, particularly in data visualization and DAX logic. Some key lessons and challenges included:
   1. Understanding how matrix visuals can be used as heatmaps in Power BI was a major learning     breakthrough. It helped in identifying patterns like peak sales hours across weekdays.
   2.  Writing different DAX measures to calculate KPIs and support time-based analysis was initially challenging but highly rewarding.
   3. Designing a clean, well-structured dashboard that tells a clear and intuitive data story was one of the most time-consuming but important parts of the project.
@@ -145,7 +144,7 @@ This project offered valuable learning experiences, particularly in data visuali
      
 ## 💡Future Improvements
   With additional time and resources, I would enhance the project by adding a Forecasting & Projections dashboard page. This would use Power BI’s built-in analytics capabilities to predict future sales trends and provide strategic foresight.
-  ## Planned visuals would include:
+  Planned visuals would include:
   1. Forecast Line Chart showing predicted sales for upcoming months based on historical data   
 
 ## ✅ Conclusion
