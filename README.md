@@ -69,7 +69,7 @@ This structured dataset enabled analysis of business performance by time, produc
   These enhancements were essential for analyzing monthly performance, order trends, and sales volume with more precision.
 ## 🧠 Sales Analysis Logic
   To summarize and evaluate sales performance effectively, a set of Key Performance Indicators (KPIs) were implemented in line with stakeholder requirements.        These KPIs were     calculated using DAX measures and calculated columns in Power BI.
-  ![Dashboard KPI]((https://github.com/sangralArsha/Coffee-Sales-Report/blob/main/Coffee%20Sales%20KPI.png))
+  ![Dashboard KPI](https://github.com/sangralArsha/Coffee-Sales-Report/blob/main/Coffee%20Sales%20KPI.png)
 
 ## The following metrics were developed:
   1. Total Sales – total revenue for the selected month
@@ -91,7 +91,7 @@ This structured dataset enabled analysis of business performance by time, produc
      
 ## 📊 Dashboard Design
 The Power BI dashboard consists of a single interactive page that provides a comprehensive snapshot of coffee shop sales for a selected month (e.g., May 2023). It’s designed to be both visually engaging and insight-rich.
-![Dashboard KPI](https://i.imgur.com/example123.png)
+![Dashboard KPI](https://github.com/sangralArsha/Coffee-Sales-Report/blob/main/Coffee%20Sales%20Dashboard.png)
 
 ## Key Features:
 ## Slicers for filtering by:
